@@ -1,3 +1,6 @@
+# Notes
+The code and the graph are at the top, and the answers are at the buttom.
+
 # Happiness
 
 Assignment 1 - CS 663 - Machine Learning
